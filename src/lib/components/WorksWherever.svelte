@@ -3,39 +3,38 @@
 </script>
 
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto text-center">
-  <h2 class="text-2xl font-bold mb-4">Works wherever you have meetings</h2>
+  <h2 class="text-2xl font-bold mb-4">Manage all your locations in one place</h2>
   <p class="text-gray-600 max-w-2xl mx-auto mb-12">
-    Recording works for calls across all providers. Whether you use Zoom, Google Meet, Slack Huddle, or Microsoft Teams, we'll get the notes.
+    Whether you run one gym or fifty coffee shops, newRota scales with your business. Create schedules across multiple venues with a single dashboard.
   </p>
   
   <div class="flex flex-wrap justify-center gap-8 md:gap-16 items-center mb-8">
-    <!-- Logos (Using colored circles/text as placeholders for icons) -->
-    <div class="w-12 h-12 bg-blue-500 rounded-xl flex items-center justify-center text-white font-bold">Z</div>
-    <div class="w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center text-white font-bold">G</div>
-    <div class="w-12 h-12 bg-purple-600 rounded-xl flex items-center justify-center text-white font-bold">T</div>
-    <div class="w-12 h-12 bg-yellow-500 rounded-xl flex items-center justify-center text-white font-bold">S</div>
-    <div class="w-12 h-12 bg-black rounded-xl flex items-center justify-center text-white font-bold">W</div>
-    <div class="w-12 h-12 bg-cyan-500 rounded-xl flex items-center justify-center text-white font-bold">W</div>
-    <div class="w-12 h-12 bg-blue-700 rounded-xl flex items-center justify-center text-white font-bold">B</div>
+    <!-- Location Icons -->
+    <div class="w-12 h-12 bg-[oklch(0.588_0.158_241.966)] rounded-xl flex items-center justify-center text-white text-xl">🏋️</div>
+    <div class="w-12 h-12 bg-[oklch(0.588_0.158_241.966)] rounded-xl flex items-center justify-center text-white text-xl">☕</div>
+    <div class="w-12 h-12 bg-[oklch(0.588_0.158_241.966)] rounded-xl flex items-center justify-center text-white text-xl">🍽️</div>
+    <div class="w-12 h-12 bg-[oklch(0.588_0.158_241.966)] rounded-xl flex items-center justify-center text-white text-xl">🏪</div>
+    <div class="w-12 h-12 bg-[oklch(0.588_0.158_241.966)] rounded-xl flex items-center justify-center text-white text-xl">🏥</div>
+    <div class="w-12 h-12 bg-[oklch(0.588_0.158_241.966)] rounded-xl flex items-center justify-center text-white text-xl">🏨</div>
   </div>
   
-  <p class="text-xs text-gray-400">Amie works with any video call provider.</p>
+  <p class="text-xs text-gray-400">newRota works for any business with hourly staff and shift-based scheduling.</p>
   
   <div class="mt-20 max-w-4xl mx-auto text-left space-y-6 text-gray-600 text-sm">
     <p>
-      When you join meetings through Amie, we'll automatically record them. If you join them through eg. Google Calendar, we'll automatically ask you to start recording the call. We'll also auto-stop the recording.
+      When you add a new location to newRota, we'll automatically apply your scheduling preferences and shift templates. Staff can be assigned to multiple locations, and the AI will optimize their schedules across all venues.
     </p>
     <p>
-      If you want Amie to work fully in the background, you can enable fully-automatic recordings. This will record every call without you having to do anything.
+      If you want to manage staff who work at multiple locations, enable cross-location scheduling. This ensures fair distribution of shifts and prevents double-booking across your entire business.
     </p>
     
     <div class="pt-8">
-      <h3 class="text-gray-900 font-bold text-lg mb-2">Customize the summary with private notes</h3>
+      <h3 class="text-gray-900 font-bold text-lg mb-2">Custom shift templates for each location</h3>
       <p>
-        Take notes in private, before or during the meeting. We'll then use those raw notes as focus points for the summary. You can define the headings we should use. List out key numbers as emphasis. Or use it to prepare the agenda.
+        Create unique shift patterns for each venue based on their specific needs. Your downtown gym might need more trainers during lunch, while your suburban location peaks in the evening. newRota remembers these patterns and applies them automatically.
       </p>
       <p class="mt-4">
-        Private notes taking in the dedicated tab are not visible to anyone else. This makes them great for time-based notetaking.
+        Templates can be shared across locations or customized individually. This gives you flexibility while maintaining consistency across your business.
       </p>
     </div>
   </div>

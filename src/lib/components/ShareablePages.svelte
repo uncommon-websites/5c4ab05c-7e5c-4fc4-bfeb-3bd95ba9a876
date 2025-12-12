@@ -4,24 +4,24 @@
 
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
   <div class="mb-4">
-    <span class="text-purple-500 font-medium">Shareable Pages</span>
+    <span class="text-purple-500 font-medium">Team Access</span>
   </div>
   
-  <h2 class="text-4xl font-bold mb-6">Shared with colleagues and customers</h2>
+  <h2 class="text-4xl font-bold mb-6">Share schedules with your entire team</h2>
   
   <p class="text-gray-600 max-w-3xl mb-8">
-    Recording all your meetings is a great start. And most tools stop there. The context that many notes create over time is a goldmine.
+    Creating schedules is just the beginning. Your team needs instant access to their shifts, and managers need visibility across all locations.
   </p>
   
   <p class="text-gray-600 max-w-3xl mb-12">
-    When you ask the AI chat questions, we pull in all the context from the pages. Wherever you are, you can always ask questions about any meeting.
+    newRota gives everyone the right level of access. Staff see their own schedules, shift leads see their teams, and managers see everything. Updates sync instantly across all devices.
   </p>
   
   <div class="border-l-4 border-purple-500 pl-6 py-2 mb-16">
     <p class="text-lg font-medium text-gray-900 italic mb-2">
-      Wow, auto-generated pages are the kind of thing that you don't even know you need until you see it. It's like an AI-native CRM.
+      The mobile app is a game-changer. My staff can check their schedules, request time off, and pick up open shifts - all from their phones. No more group texts.
     </p>
-    <div class="text-sm text-gray-500">Victor Fleha • Founder, Fundmore</div>
+    <div class="text-sm text-gray-500">David Martinez • Regional Manager, FitZone</div>
   </div>
   
   <!-- Interface Mockup -->
@@ -80,34 +80,34 @@
   <!-- Bottom Grid -->
   <div class="grid md:grid-cols-3 gap-8 mt-16">
     <div>
-      <h3 class="font-bold text-lg mb-2">By recurring event</h3>
-      <p class="text-sm text-gray-600 mb-4">See how your project is progressing over time.</p>
+      <h3 class="font-bold text-lg mb-2">Mobile App</h3>
+      <p class="text-sm text-gray-600 mb-4">Staff access schedules on any device, anytime.</p>
       <div class="bg-gray-50 p-4 rounded-lg border border-gray-100 h-24 flex items-center justify-center">
         <div class="w-full space-y-2">
-          <div class="h-2 bg-gray-200 rounded w-3/4"></div>
-          <div class="h-2 bg-gray-200 rounded w-1/2"></div>
+          <div class="h-2 bg-[oklch(0.588_0.158_241.966)] rounded w-3/4"></div>
+          <div class="h-2 bg-[oklch(0.746_0.16_232.661)] rounded w-1/2"></div>
         </div>
       </div>
     </div>
     
     <div>
-      <h3 class="font-bold text-lg mb-2">By domain</h3>
-      <p class="text-sm text-gray-600 mb-4">Make sure your customers get the care they deserve.</p>
+      <h3 class="font-bold text-lg mb-2">Real-time Updates</h3>
+      <p class="text-sm text-gray-600 mb-4">Changes sync instantly across all devices.</p>
       <div class="bg-gray-50 p-4 rounded-lg border border-gray-100 h-24 flex items-center justify-center">
         <div class="w-full space-y-2">
-          <div class="h-2 bg-gray-200 rounded w-full"></div>
-          <div class="h-2 bg-gray-200 rounded w-2/3"></div>
+          <div class="h-2 bg-green-500 rounded w-full"></div>
+          <div class="h-2 bg-green-400 rounded w-2/3"></div>
         </div>
       </div>
     </div>
     
     <div>
-      <h3 class="font-bold text-lg mb-2">Manually</h3>
-      <p class="text-sm text-gray-600 mb-4">Keep track of topics, projects, or anything else.</p>
+      <h3 class="font-bold text-lg mb-2">Permission Levels</h3>
+      <p class="text-sm text-gray-600 mb-4">Control who sees what with role-based access.</p>
       <div class="bg-gray-50 p-4 rounded-lg border border-gray-100 h-24 flex items-center justify-center">
         <div class="w-full space-y-2">
-          <div class="h-2 bg-gray-200 rounded w-1/2"></div>
-          <div class="h-2 bg-gray-200 rounded w-3/4"></div>
+          <div class="h-2 bg-blue-500 rounded w-1/2"></div>
+          <div class="h-2 bg-blue-400 rounded w-3/4"></div>
         </div>
       </div>
     </div>
